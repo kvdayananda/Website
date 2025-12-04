@@ -1,0 +1,5 @@
+{
+  "name": "GourmetFlow - Hotel Management",
+  "description": "A full-stack ready frontend for hotel management. Features customer ordering, kitchen display systems, admin dashboards, and an AI-powered concierge.",
+  "requestFramePermissions": []
+}
